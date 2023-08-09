@@ -1,0 +1,878 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.red{
+    color: red;
+}
+.white{
+    color: white;
+}
+
+
+
+
+
+* {
+margin: 0;
+padding: 0;
+}
+body{
+background-color: black;
+}
+.white{
+color: white;
+}
+.red{
+color: red;
+}
+.container{
+display: flex;
+width: 200vh;
+height: 32vh;
+}
+body{
+position: sticky;
+top: 0;
+}
+.i{
+background-color: black;
+display: inline-block;
+width: 200vh;
+height: 10vh;
+}
+.mid {
+margin: 15%;
+color: white;
+height: 20vh;
+font-size: 5.5vh;
+position: relative;
+bottom: 20vh;
+right: 12vh;
+
+}
+.n{
+background-color: black;
+display: inline-block;
+width: 100vh;
+height: 20vh;
+position: absolute;
+left: 100vh;
+top: 2vh;
+}
+.n nav ul li {
+padding: 0vh 2vh;
+display: inline-block;
+position: relative;
+top: 10vh;
+left: 30vh;
+}
+
+.d{
+color: red;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Main */
+
+
+
+
+
+
+
+
+body{
+    background-color: black;
+}
+.zero{
+    background-color: black;
+    width: 20vh;
+    height: 10vh;
+    position: relative;
+    left: 86vh;
+    
+}
+.img1{
+    background-color: black;
+    height: 230px;
+    width: 230px;
+    border-radius: 800vh;
+    text-align: end;
+    
+}
+
+.one{
+    background-color: black;
+    color:white;
+    font-size: 8vh;
+    text-align: center;
+}
+.two{
+    background-color: black;
+    color:white;
+    font-size: 4vh;
+    width: 40vh;
+    text-decoration: none;
+    position: relative;
+    left: 35vh;
+    
+}
+.Two{
+background-color: black;
+color: white;
+width: 15%;
+height: 10vh;
+border:  0vh solid red;
+position: relative;
+left:67%;
+bottom: 9vh;
+
+    
+}
+.text{
+color: white;
+text-decoration: none;
+font-size: 3vh;
+padding: 2vh 2vh;
+    
+
+
+}
+.shape{
+background-color: black;
+border-radius: 100vh;
+border:  1vh solid red;
+padding: 2vh 2vh;
+
+
+}
+.container1{
+    display: flex;
+    border: 2px solid red ;
+    width:110vh;
+    position: relative;
+    left: 50vh;
+    
+    
+    
+}
+.three{
+    background-color: black;
+    color:white;
+    width: 22vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    left: 15%; 
+    top: 10vh;
+}
+.four{
+    background-color: black;
+    color:white;
+    width:45vh;
+    position: relative;
+    left: 30%;
+}
+.container2{
+    display: flex;
+    border: 2px solid red ;
+    width:110vh;
+    position: relative;
+    left: 50vh;
+}
+.five{
+    background-color: black;
+    color:white;
+    width: 22vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    left: 15%; 
+    top: 8vh;
+}
+.six{
+    background-color: black;
+    color:white;
+    width:45vh;
+    position: relative;
+    left: 73%;
+}
+.container3{
+    display: flex;
+    border: 2px solid red ;
+    width:110vh;
+    position: relative;
+    left: 50vh;
+}
+.seven{
+    background-color: black;
+    color:white;
+    width: 22vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    left: 15%; 
+    top: 8vh;
+}
+.eight{
+    background-color: black;
+    color:white;
+    width:45vh;
+    position: relative;
+    left: 30%;
+}
+.nine{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    text-align: center;
+}
+.container4{
+    display: flex;
+    border: 2px solid red ;
+    width:110vh;
+    position: relative;
+    left: 50vh;
+    
+}
+.ten{
+    background-color: black;
+    color:white;
+    width: 50vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    top: 5vh;
+}
+.eleven{
+    background-color: black;
+    color:white;
+    width:45vh;
+    position: relative;
+    left: 5%;
+}
+.container5{
+    display: flex;
+    border: 2px solid red ;
+    width:110vh;
+    position: relative;
+    left: 50vh;
+
+}
+.twelve{
+    background-color: black;
+    color:white;
+    width: 50vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    top: 10vh;
+}
+.thirteen{
+    background-color: black;
+    color:white;
+    width:45vh;
+    position: relative;
+    left: 5%;
+}
+/* container */
+
+.unity{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    width: 90vh;
+    position: relative;
+    left: 65vh;
+}
+.j0{
+    background-color: black;
+    color:white;
+    border: 2px solid red;
+    width: 99vh;
+    height: 20vh;
+    position: relative;
+    left: 54vh;
+
+
+
+}
+.j1{
+    position: relative;
+    top: 3vh;
+    left: 5vh;
+
+
+
+}
+.j2{
+    position: relative;
+    left: 50vh;
+    
+
+    
+
+
+
+}
+.j3{
+    position: relative;
+    top: 3vh;
+    left:50vh;
+
+    
+
+
+}
+.j4{
+    position: relative;
+    left: 5vh;
+    
+
+
+}
+.j5{
+    position: relative;
+    top: 3vh;
+    left:50vh;
+    
+
+
+
+}
+.j6{
+    position: relative;
+    left: 5vh;
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+.nineteen{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    width: 65vh;
+    position: relative;
+    left: 75vh;
+}
+.n0{
+    background-color: black;
+    color:white;
+    border: 2px solid red;
+    width: 97vh;
+    height: 20vh;
+    position: relative;
+    left: 56vh;
+
+
+
+
+}
+.n1{
+    position: relative;
+    top: 3vh;
+    left: 3vh;
+
+
+
+}
+.n2{
+    position: relative;
+    left:55vh ;
+
+
+
+}
+.n3{
+    position: relative;
+    top: 3vh;
+    left: 3vh;
+
+
+}
+.n4{
+    position: relative;
+    left:55vh ;
+
+
+}
+.n5{
+    position: relative;
+    top: 3vh;
+    left: 3vh;
+
+
+
+}
+.n6{
+    position: relative;
+    left:55vh ;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.forteen{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    width: 60vh;
+    position: relative;
+    left: 80vh;
+}
+.fifteen{
+    background-color: black;
+    color:white;
+    border: 2px solid red;
+    width: 90vh;
+    height: 20vh;
+    position: relative;
+    left: 60vh;
+}
+.f1{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+}
+.f2{
+    position: relative;
+    left:55vh ;
+
+} 
+.f3{
+    position: relative;
+    left: 6vh;
+    top: 3vh;
+    
+
+} 
+.f4{
+    position: relative;
+    left:55vh ;
+
+} 
+.f5{
+    position: relative;
+    left: 6vh;
+    top: 3vh;
+
+} 
+.f6{
+    position: relative;
+    left:55vh ;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sixteen{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    width: 20vh;
+    position: relative;
+    left: 89vh;
+}
+.s0{
+    background-color: black;
+    color:white;
+    border: 2px solid red;
+    width: 60vh;
+    height: 20vh;
+    position: relative;
+    left: 76vh;
+
+
+
+}
+.s1{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+
+}
+.s2{
+    position: relative;
+    left:40vh ;
+
+
+
+}
+.s3{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+}
+.s4{
+    position: relative;
+    left:40vh ;
+
+
+}
+.s5{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+
+}
+.s6{
+    position: relative;
+    left:40vh ;
+
+
+
+}
+
+
+
+
+
+.eighteen{
+    background-color: black;
+    color:white;
+    font-size: 5vh;
+    width: 10vh;
+    position: relative;
+    left: 89vh;
+}
+.e0{
+    background-color: black;
+    color:white;
+    border: 2px solid red;
+    width: 50vh;
+    height: 20vh;
+    position: relative;
+    left: 78vh;
+
+
+
+}
+.e1{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+
+}
+.e2{
+    position: relative;
+    left:30vh ;
+
+
+
+}
+.e3{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+}
+.e4{
+    position: relative;
+    left:30vh ;
+
+
+}
+.e5{
+    position: relative;
+    top: 3vh;
+    left: 6vh;
+
+
+
+}
+.e6{
+    position: relative;
+    left:30vh ;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+
+
+.containertwoo{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 1vh;
+
+}
+.eightt{
+    background-color: black;
+    color: white;
+    width: 40%;
+    padding: 10vh 10vh;
+    font-size: 2vh;
+   
+}
+.ninee{
+    background-color: black;
+    color: white;
+    padding: 10vh 10vh;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    
+}
+.tenn{
+    background-color: black;
+    color: white;
+    padding: 10vh 10vh;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+.elevenn{
+    background-color: black;
+    color: white;
+    padding: 10vh 10vh;
+    display: inline block;
+    text-align: center;
+    width: 20%;
+    position: relative;
+    bottom: 2vh;
+    
+}
+.thirteenn{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 15vh;
+    width: 200vh;
+    height: 3vh;
+    
+}
+.fifteenn{
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 8vh;
+    height: 3vh;
+    font-weight:100 ;
+    font-size: 2vh;
+    position: relative;
+    left: 72vh;
+}
+.sixteenn{
+    background-color: white;
+    color: black;
+    border-color: white;
+    width: 8vh;
+    height: 3vh;
+    font-weight:50 ;
+    font-size: 2vh;
+    position: relative;
+    left: 72vh;
+}
+.seventeenn{
+    background-color: black;
+    color: white;
+    border-color: black;
+    width: 2vh;
+    height: 1px;
+    font-weight:100 ;
+    font-size: 3vh;
+    position: relative;
+    left: 72vh;
+}
+
+.centerr{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

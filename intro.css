@@ -1,0 +1,396 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+}
+.white{
+  color: white;
+}
+.red{
+  color: red;
+}
+.container{
+display: flex;
+width: 200vh;
+height: 18vh;
+}
+body{
+position: sticky;
+top: 0;
+}
+.i{
+background-color: black;
+display: inline-block;
+width: 200vh;
+height: 10vh;
+}
+.mid {
+margin: 15%;
+color: white;
+height: 20vh;
+font-size: 5.5vh;
+position: relative;
+bottom: 20vh;
+right: 12vh;
+
+}
+.n{
+background-color: black;
+display: inline-block;
+width: 100vh;
+height: 20vh;
+position: absolute;
+left: 100vh;
+top: 2vh;
+}
+.n nav ul li {
+padding: 0vh 2vh;
+display: inline-block;
+position: relative;
+top: 10vh;
+left: 30vh;
+}
+
+.d{
+color: red;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+body{
+  background-color: black;
+}
+
+
+
+
+
+  .red{
+      color:red;
+  }
+  .white{
+      color: white;
+  }
+  .black{
+      background-color: black;
+  }
+  .containerone{
+      display: flex;
+      min-height: 100vh -25vh -6vh;
+      position: relative;
+      top: 20vh;
+  }
+  .Zero{
+      background-color: black;
+      color: white;
+      display: inline-block;
+      width: 50%;
+      height:20vh;
+      font-weight: 500vh;
+      font-size: 5vh;
+      position: relative;
+      top: 4vh;
+      
+  }
+  .zero{
+      background-color: black;
+      width: 50%;
+      height: 0%;
+      
+  }
+  .img{
+      background-color: black;
+      height: 205px;
+      width: 205px;
+      border-radius: 50%;
+      margin: 0vh 60vh;
+      text-align: end;
+      
+
+  }
+  .one{
+      background-color: black;
+      color: white;
+      margin: 0vh 65vh 0vh;
+      width: 20vh;
+      font-size: 3vh;
+      font-weight: 500vh;
+      position: absolute;
+      top: 30vh;
+     
+  }
+  .two{
+      background-color: black;
+      color: red;
+      margin: 0vh 70vh;
+      width: 7vh;
+      position: absolute;
+      top: 35vh;
+      
+  }
+  .three{
+      background-color: black;
+      color:red;
+      margin: 0vh 65vh 0vh;
+      width: 20vh;
+      font-weight: 200px;
+      font-size: 3vh;
+      position: absolute;
+      top: 40vh;
+      left: 2vh;
+    
+      
+  }
+  .four{
+      background-color: black;
+      width: 22vh;
+      position: absolute;
+      top: 50vh;
+      left: 65vh;
+
+      
+  }
+  
+  .Five{
+  background-color: black;
+  color: white;
+  border:  0vh solid red;
+  height: 10vh;
+  position: absolute;
+  top: 26vh;
+  left:100vh;
+  
+
+
+
+  
+}
+
+  .Six{
+  background-color: black;
+  color: white;
+  border:  0vh solid red;
+  height: 10vh;
+  position: absolute;
+  top: 26vh;
+  left:118vh;
+  
+  
+}
+.shape1{
+  background-color: black;
+  border-radius: 100vh;
+  border:  0.5vh solid red;
+  width: 15vh;
+
+
+  
+  
+
+}
+.shape2{
+  background-color: red;
+  border-radius: 100vh;
+  border:  0.5vh solid red;
+  width: 15vh;
+
+
+  
+  
+
+}
+.text1{
+  color: white;
+  text-decoration: none;
+  font-size: 2vh;
+  padding: 1vh 0vh;
+
+
+
+}
+.text2{
+  color: white;
+  text-decoration: none;
+  font-size: 2vh;
+  padding: 1vh 0vh;
+
+
+
+}
+  .seven{
+      background-color: black;
+      color: white;
+      width: 23%;
+      position: absolute;
+      top:40vh;
+      left: 100vh;
+      overflow: hidden;
+      
+  }
+
+
+
+
+
+
+  
+ 
+  .containertwo{
+      background-color: black;
+      display: flex;
+      width: 100%;
+      height: 1vh;
+      position: relative;
+      top: 65vh;
+  }
+  .eight{
+      background-color: black;
+      color: white;
+      width: 40%;
+      padding: 10vh 10vh;
+      font-size: 2vh;
+     
+  }
+  .nine{
+      background-color: black;
+      color: white;
+      padding: 10vh 10vh;
+      display: inline-block;
+      text-align: center;
+      width: 20%;
+      
+  }
+  .ten{
+      background-color: black;
+      color: white;
+      padding: 10vh 10vh;
+      display: inline-block;
+      text-align: center;
+      width: 20%;
+  }
+  .eleven{
+      background-color: black;
+      color: white;
+      padding: 10vh 10vh;
+      display: inline block;
+      text-align: center;
+      width: 20%;
+      position: relative;
+      bottom: 2vh;
+      
+  }
+  .thirteen{
+      background-color: black;
+      color: white;
+      position: relative;
+      top: 80vh;
+      width: 200vh;
+      height: 3vh;
+      
+  }
+  .fifteen{
+      background-color: black;
+      color: white;
+      border-color: white;
+      width: 8vh;
+      height: 3vh;
+      font-weight:100 ;
+      font-size: 2vh;
+      position: relative;
+      left: 72vh;
+  }
+  .sixteen{
+      background-color: white;
+      color: black;
+      border-color: white;
+      width: 8vh;
+      height: 3vh;
+      font-weight:50 ;
+      font-size: 2vh;
+      position: relative;
+      left: 72vh;
+  }
+  .seventeen{
+      background-color: black;
+      color: white;
+      border-color: black;
+      width: 2vh;
+      height: 1px;
+      font-weight:100 ;
+      font-size: 3vh;
+      position: relative;
+      left: 72vh;
+  }
+  
+  .center{
+      text-align: center;
+  }
